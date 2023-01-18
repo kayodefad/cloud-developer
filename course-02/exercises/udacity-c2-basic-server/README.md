@@ -33,7 +33,7 @@ Developer mode runs off the TypeScript source. Any saves will reset the server a
 ***
 ## Important Files and Project Structure
 
-The source code for this demo resides in the ./src directory.
+The source code for this demo resides in the ./src directory
 
 ### src/server.ts
 The main code for this demo is located in the ./src/server.ts file. This includes 
