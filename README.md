@@ -5,7 +5,7 @@
 
 # ND9990 cloud-developer
 Content for Udacity's cloud developer nanodegree's following two courses:
-* Course 02 - Full Stack Apps on AWS
+* Course 02 - Full Stack App on AWS
 * Course 04 - Develop & Deploy Serverless App
 
 Here is the repository structure:
